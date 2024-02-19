@@ -1,4 +1,16 @@
 <h1 align="center">Hi 👋, I'm Preeti</h1>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/preetiroutray/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 <h3 align="center">Passionate AIML College Student | Data Science Enthusiast | Problem Solver</h3>
 
 - 🔭 I’m currently working on [AutoShop](https://github.com/havoc7/AutoShop)
