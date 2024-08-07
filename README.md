@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on [AutoShop](https://github.com/havoc7/AutoShop)
 
-- 🌱 I’m currently learning **Django, Flask**
-
-- 🤝 I’m looking for help with [Grocery Shopping](https://github.com/preetiroutray/Grocery-Shopping)
+- 🌱 I’m currently learning **GenAI, LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/preetiroutray?tab=repositories](https://github.com/preetiroutray?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Data Science, Figma**
+- 💬 Ask me about **Machine Learning, Deep Learning, Data Science & Analysis**
 
 - 📫 How to reach me **preetiroutray@gmail.com**
 
