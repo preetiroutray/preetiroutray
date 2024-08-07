@@ -5,7 +5,7 @@
 </div>
 
 ###
-<h3 align="center">Passionate AIML College Student | Data Science Enthusiast | Problem Solver</h3>
+<h3 align="center">Passionate AIML College Student | Data Analyst | Problem Solver</h3>
 
 - 🔭 I’m currently working on [AutoShop](https://github.com/havoc7/AutoShop)
 
