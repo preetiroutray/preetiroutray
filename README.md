@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **GenAI, LLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/preetiroutray?tab=repositories](https://github.com/preetiroutray?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/preetiroutray?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science & Analysis**
 
 - 📫 How to reach me **preetiroutray@gmail.com**
 
-- 📄 Know about my experiences [through my resume](https://drive.google.com/file/d/1pcJ_TjwSaF21in1AOtcJlXPNbx97XVKl/view?usp=sharing)
+- 📄 Know about my experiences through [my resume](https://drive.google.com/file/d/1pcJ_TjwSaF21in1AOtcJlXPNbx97XVKl/view?usp=sharing)
 
 - ⚡ Fun fact **I can solve 7 types of Rubik's Cubes**
 
