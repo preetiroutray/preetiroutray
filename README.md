@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **preetiroutray@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sb0fFTufS6CHF_WV_YSTQZGme9SI3yR9/view?usp=sharing](https://drive.google.com/file/d/1sb0fFTufS6CHF_WV_YSTQZGme9SI3yR9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pcJ_TjwSaF21in1AOtcJlXPNbx97XVKl/view?usp=sharing](https://drive.google.com/file/d/1pcJ_TjwSaF21in1AOtcJlXPNbx97XVKl/view?usp=sharing)
 
 - ⚡ Fun fact **I can solve 7 types of Rubik's Cubes**
 
