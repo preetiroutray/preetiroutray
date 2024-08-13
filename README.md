@@ -5,9 +5,9 @@
 </div>
 
 ###
-<h3 align="center">Passionate AIML College Student | Data Analyst | Problem Solver</h3>
+<h3 align="center">AIML Undergrad | Data Analyst | Problem Solver</h3>
 
-- 🔭 I’m currently working on [AutoShop](https://github.com/havoc7/AutoShop)
+- 🔭 I’m currently working on [GenAI Project](https://github.com/preetiroutray/Restaurant-name-generator)
 
 - 🌱 I’m currently learning **GenAI, LLMs**
 
